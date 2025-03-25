@@ -112,12 +112,3 @@ npm run test
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Baasil Ali** - *Initial work* - [baasilali](https://github.com/baasilali)
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who have helped shape BarberApp
-- Inspired by modern booking systems and barber shop needs 
